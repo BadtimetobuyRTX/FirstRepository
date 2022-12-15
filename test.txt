@@ -1,6 +1,2 @@
 Hello world!
-123
-456
-7891
 Good bye!
-asdf
